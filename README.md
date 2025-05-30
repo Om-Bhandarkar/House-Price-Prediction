@@ -1,7 +1,5 @@
-# Create the README.md file with the nicely formatted project description
 
-readme_content = """
-# 🏡 House Price Predictor
+# 🏡 House Price Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 ![Flask](https://img.shields.io/badge/Flask-2.0+-green?logo=flask)
